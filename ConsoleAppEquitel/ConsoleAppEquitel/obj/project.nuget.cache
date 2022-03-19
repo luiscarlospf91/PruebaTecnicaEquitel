@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw0NOnQGH4nAyr/giHDfCD220Prx3sQTwLnyqW84gLTabqBTPkKwzwhCbT7MHpFidZN9WbI2tOkXVdQiJu0FYA==",
+  "dgSpecHash": "iJHYidYlvHLK9Fwb3bXKXr3hOm2bGwBbIbrQOcHKSWnZ92Vq4vrBolgieh/4szP+PyeZvcaPQeJLoHO4t4xT0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luis Carlos Perez\\Desktop\\Practica\\PruebaTecnicaEquitel\\ConsoleAppEquitel\\ConsoleAppEquitel\\ConsoleAppEquitel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Carlos Perez\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

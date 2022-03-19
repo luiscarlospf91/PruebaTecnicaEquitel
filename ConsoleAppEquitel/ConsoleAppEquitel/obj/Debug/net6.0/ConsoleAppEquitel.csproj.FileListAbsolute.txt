@@ -1,0 +1,56 @@
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.exe
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.deps.json
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.runtimeconfig.json
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.pdb
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.AssemblyReference.cache
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.AssemblyInfoInputs.cache
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.AssemblyInfo.cs
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.CoreCompileInputs.cache
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\refint\ConsoleAppEquitel.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.pdb
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.genruntimeconfig.cache
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ref\ConsoleAppEquitel.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.exe
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.dll.config
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.deps.json
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.runtimeconfig.json
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.pdb
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.AssemblyReference.cache
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.AssemblyInfoInputs.cache
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.AssemblyInfo.cs
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.CoreCompileInputs.cache
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\refint\ConsoleAppEquitel.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.pdb
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.genruntimeconfig.cache
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ref\ConsoleAppEquitel.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIOED-708\Desktop\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.CopyComplete
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\ConsoleAppEquitel.dll.config
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Luis Carlos Perez\Desktop\Practica\PruebaTecnicaEquitel\ConsoleAppEquitel\ConsoleAppEquitel\obj\Debug\net6.0\ConsoleAppEquitel.csproj.CopyComplete
